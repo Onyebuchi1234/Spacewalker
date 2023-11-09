@@ -1,0 +1,213 @@
+.main{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 8px;
+}
+.spacewalker{
+background-color: ghostwhite;
+width: 1360px;
+position: relative;
+right: 4px;
+margin-top: -22px;
+height: 90px;
+}
+@media only screen and (max-width:500px){
+	.spacewalker{
+		width: 666px;
+		left: -5px;
+	}
+}
+#space{
+	font-family:Georgia;
+	margin-left: 540px;
+	font-size: 35px;
+}
+@media only screen and (max-width:500px){
+	#space{
+		margin-left: 193px;
+	}
+}
+ol li{
+	list-style-type:none;
+	float: left;
+	padding-right: 20px;
+	position: relative;
+	left: 470px;
+	font-family: Georgia;
+	margin-top: -5px;
+}
+@media only screen and (max-width:500px){
+	ol li{
+		left: 122px;
+	}
+}
+img{
+	width: 1200px;
+	border-radius: 7px;
+	position:relative;
+	left:70px;
+}
+@media only screen and (max-width:500px){
+	img{
+		width:666px;
+		left:-5px;
+	}
+}
+#lift{
+	font-family: Georgia;
+	margin-left: 90px;
+	font-size: 30px;
+}
+@media only screen and (max-width:500px){
+	#lift{
+		margin-left: 7px;
+	}
+}
+#text{
+	font-family: Georgia;
+	margin-left: 85px;
+    font-size: 25px;
+}
+@media only screen and (max-width:500px){
+	#text{
+		margin-left:0;
+		font-size:15px;
+	}
+}
+content img{
+	width: 330px;
+	margin-left: 15px;
+	border-radius: 18px;
+}
+@media only screen and (max-width:500px){
+	content img{
+		width: 621px;
+		left: 1px;
+	}
+}
+object img{
+	width: 330px;
+    margin-left: 45px;
+    border-radius: 18px;
+}
+@media only screen and (max-width:500px){
+	object img{
+		width: 621px;
+		left: -32px;
+		top: 25px;
+	}
+}
+code img{
+	width: 330px;
+    margin-left: 45px;
+    border-radius: 18px;
+}
+@media only screen and (max-width:500px){
+	code img{
+	width: 621px;
+	left: -32px;
+	top: 44px;
+	}
+}
+#can{
+	font-family: Georgia;
+	margin-left: 85px;
+	margin-top: 40px;
+	font-size: 25px;
+}
+@media only screen and (max-width:500px){
+	#can{
+		position: relative;
+		top: 30px;
+		left: -79px;
+	}
+}
+#visit{
+	font-family: Georgia;
+	margin-left: 85px;
+    font-size: 25px;
+}
+@media only screen and (max-width:500px){
+	#visit{
+     position: relative;
+     top: 20px;
+     left: -79px;
+	}
+}
+#which{
+	font-family: Georgia;
+	margin-left: 85px;
+    font-size: 25px;
+}
+@media only screen and (max-width:500px){
+	#which{
+		position: relative;
+		top: 30px;
+		left: -79px;
+	}
+}
+hr{
+margin-top: 100px;
+width: 1200px;
+}
+@media only screen and (max-width:500px){
+	hr{
+		width: 409px;
+		position: relative;
+		left: -1px;
+	}
+}
+#let{
+	font-family: Georgia;
+	margin-left: 125px;
+	margin-top: 45px;
+	font-size: 25px;
+}
+#the{
+	font-family: Georgia;
+	margin-left: 125px;
+	font-size: 20px;
+}
+#suddenly{
+	font-family: Georgia;
+	margin-left: 125px;
+	font-size: 20px;
+	margin-top: 40px;
+}
+small img{
+	width: 450px;
+	height: 300px;
+	margin-left: 590px;
+	position: relative;
+	top: -290px;
+}
+button{
+	height: 25px;
+	width: 80px;
+	background-color: #000;
+	color: #fff;
+	border: none;
+	border-radius: 2px;
+	font-family: cursive;
+	position: relative;
+	right: 920px;
+	top: -270px;
+	cursor: pointer;
+}
+.container{
+	background-color: ghostwhite;
+    width: 1200px;
+    position: relative;
+    left: 70px;
+    top: -230px;
+    height: 80px;
+    border-radius: 10px;
+}
+#copy{
+	margin-left: 460px;
+	margin-bottom: 60px;
+	position: relative;
+	top: 28px;
+	font-family: cursive;
+}
